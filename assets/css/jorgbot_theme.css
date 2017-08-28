@@ -5,7 +5,7 @@
 }
 
 #equipo .item:hover img {
-    filter: brightness(150%) saturate(140%);
+    filter: brightness(100%) saturate(140%);
     opacity: 1;
 }
 
